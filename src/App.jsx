@@ -5,7 +5,8 @@ import Experience from './pages/Experience';
 import Home from './pages/Home';
 import './App.css';
 import Navbar from './components/Navbar';
-import Footer from './components/footer';
+
+import Footer from './components/Footer';
 import ProjectDisplay from './pages/ProjectDisplay'
 
 
